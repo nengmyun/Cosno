@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organiz이',
+  organiz',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
