@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '엔더 너드',
-  tagline: '언리미티드 어드벤쳐, 언리미티드 백팩 등 엔더 너드들의 창의적인 상품들을 한국어로 더욱 편하게 입문하세요!',
+  title: '구름이 문서',
+  tagline: 'TTS봇, 구름이의 문서 사이트에요.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://endernerdskr.netlify.app',
+  url: 'https://cloudydocs.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
