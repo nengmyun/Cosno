@@ -56,7 +56,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '엔더 너드',
+        title: '코스노',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
