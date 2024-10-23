@@ -7,8 +7,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '구름이 문서',
-  tagline: 'TTS봇, 구름이의 문서 사이트에요.',
+  title: '코스노의 대죄',
+  tagline: '코스노의 대죄 관련 문서 페이지 입니다.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
