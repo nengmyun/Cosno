@@ -12,7 +12,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://cloudydocs.netlify.app',
+  url: 'https://cosno.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -67,6 +67,11 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: '설명서',
+          },
+          {
+            type: 'blog',
+            position: 'left',
+            label: 'Blog',
           },
           {
             href: 'https://discord.gg/xZQtkE5uCG',
